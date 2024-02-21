@@ -20,6 +20,7 @@ Ensure Python is installed on your system. This project requires:
 
 ### Installation
 Clone the repository and navigate to the project directory:
+
 git clone https://github.com/WibiSanaSini/LiDAR-Exploration-with-Open3D.git
 cd LiDAR-Exploration-with-Open3D
 
@@ -37,6 +38,7 @@ Open the Jupyter Notebook:
 jupyter notebook LiDAR_Exploration.ipynb
 
 Execute the cells sequentially to import libraries, install modules, prepare data, and perform analysis and visualization.
+
 Detailed instruction and reasoning are fully documented inside the notebook.
 
 ## Features
