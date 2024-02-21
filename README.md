@@ -32,9 +32,9 @@ Virtual Environment (optional but recommended):
 
 Create a virtual environment to isolate project dependencies.
 
-Use ```bash python -m venv lidar_env``` to create a virtual environment named lidar_env.
+1. Use ```bash python -m venv lidar_env``` to create a virtual environment named lidar_env.
+2. Activate the environment with source ```lidar_env/bin/activate on Unix/macOS``` or ```.\lidar_env\Scripts\activate``` on Windows.
 
-Activate the environment with source ```lidar_env/bin/activate on Unix/macOS``` or ```.\lidar_env\Scripts\activate``` on Windows.
 ## Running the Project
 
 ### Data Preparation
