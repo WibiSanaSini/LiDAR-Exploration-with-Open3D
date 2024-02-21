@@ -1,7 +1,7 @@
 # LiDAR Exploration with Open3D
 
 ## Overview
-This project focuses on analyzing and visualizing 3D point cloud data from LiDAR datasets utilizing Python and Open3D. It showcases advanced computational techniques for data preparation, voxelization, mesh creation, and transforming local coordinates into geographical coordinates.
+This project focuses on analyzing and visualizing 3D point cloud data from LiDAR datasets utilizing Python and Open3D. It showcases computational techniques for data preparation, voxelization, mesh creation, and transforming local coordinates into geographical coordinates.
 
 ## Setup
 
