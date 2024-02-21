@@ -25,10 +25,11 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/WibiSanaSini/LiDAR-Exploration-with-Open3D.git
 cd LiDAR-Exploration-with-Open3D
-
+```
 Install required libraries:
+```bash
 pip install laspy open3d numpy matplotlib folium plotly pandas pyproj scikit-learn trimesh
-
+```
 ## Running the Project
 
 ### Data Preparation
@@ -37,8 +38,9 @@ pip install laspy open3d numpy matplotlib folium plotly pandas pyproj scikit-lea
 
 ### Execution
 Open the Jupyter Notebook:
+```bash
 jupyter notebook LiDAR_Exploration.ipynb
-
+```
 Execute the cells sequentially to import libraries, install modules, prepare data, and perform analysis and visualization.
 
 Detailed instruction and reasoning are fully documented inside the notebook.
