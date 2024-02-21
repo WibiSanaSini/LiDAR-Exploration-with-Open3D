@@ -49,8 +49,5 @@ Detailed instruction and reasoning are fully documented inside the notebook.
 - **Voxelization & Mesh Creation:** Transform data into voxel grids and meshes.
 - **Coordinate Transformation:** Convert local coordinates into geographical coordinates for accurate mapping.
 
-## Contributing
-Contributions are welcome. Please fork the repository and submit a pull request with your enhancements.
-
 ## License
 This project is under the MIT License. See the [LICENSE](LICENSE) file for more details.
