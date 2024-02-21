@@ -20,8 +20,6 @@ Ensure Python is installed on your system. This project requires:
 
 ### Installation
 Clone the repository and navigate to the project directory:
-
-Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/WibiSanaSini/LiDAR-Exploration-with-Open3D.git
 cd LiDAR-Exploration-with-Open3D
