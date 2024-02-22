@@ -44,7 +44,7 @@ Create a virtual environment to isolate project dependencies.
 ### Execution
 Open the Jupyter Notebook:
 ```bash
-jupyter notebook 1. LiDAR_Exploration_Open3D_Notebook.ipynb
+jupyter notebook LiDAR_Exploration_Open3D_Notebook.ipynb
 ```
 Execute the cells sequentially to import libraries, install modules, prepare data, and perform analysis and visualization.
 
