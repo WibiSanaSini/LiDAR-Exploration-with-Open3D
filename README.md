@@ -28,6 +28,13 @@ Install required libraries:
 ```bash
 pip install laspy open3d numpy matplotlib folium plotly pandas pyproj scikit-learn trimesh
 ```
+Virtual Environment (optional but recommended): 
+
+Create a virtual environment to isolate project dependencies.
+
+1. Use ```bash python -m venv lidar_env``` to create a virtual environment named lidar_env.
+2. Activate the environment with source ```lidar_env/bin/activate on Unix/macOS``` or ```.\lidar_env\Scripts\activate``` on Windows.
+
 ## Running the Project
 
 ### Data Preparation
@@ -37,7 +44,7 @@ pip install laspy open3d numpy matplotlib folium plotly pandas pyproj scikit-lea
 ### Execution
 Open the Jupyter Notebook:
 ```bash
-jupyter notebook LiDAR_Exploration.ipynb
+jupyter notebook 1. LiDAR_Exploration_Open3D_Notebook.ipynb
 ```
 Execute the cells sequentially to import libraries, install modules, prepare data, and perform analysis and visualization.
 
